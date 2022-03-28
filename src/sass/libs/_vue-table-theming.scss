@@ -1,0 +1,27 @@
+@import 'node_modules/vue-good-table-next/src/styles/striped';
+
+// base table styles
+@import './variables-override';
+@import 'node_modules/vue-good-table-next/src/styles/utils';
+@import 'node_modules/vue-good-table-next/src/styles/wrap';
+@import 'node_modules/vue-good-table-next/src/styles/table';
+@import 'node_modules/vue-good-table-next/src/styles/table-th';
+@import 'node_modules/vue-good-table-next/src/styles/input';
+@import 'node_modules/vue-good-table-next/src/styles/loading';
+
+// table enhancements
+@import 'node_modules/vue-good-table-next/src/styles/bordered';
+@import 'node_modules/vue-good-table-next/src/styles/rtl';
+@import 'node_modules/vue-good-table-next/src/styles/condensed';
+@import 'node_modules/vue-good-table-next/src/styles/compact';
+
+// controls on top
+@import 'node_modules/vue-good-table-next/src/styles/control-bar';
+
+// table footer
+@import 'node_modules/vue-good-table-next/src/styles/table-footer';
+
+//themes
+@import 'node_modules/vue-good-table-next/src/styles/nocturnal/nocturnal';
+@import 'node_modules/vue-good-table-next/src/styles/black-rhino/black-rhino';
+@import 'node_modules/vue-good-table-next/src/styles/polar-bear/polar-bear';

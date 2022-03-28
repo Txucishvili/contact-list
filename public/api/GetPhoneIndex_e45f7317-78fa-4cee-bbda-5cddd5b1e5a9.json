@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "id": "4e783f6c-068d-4bcb-8cb6-7eb96917a10c",
+            "typeId": "f576ac6b-4f11-4c58-a126-7e7c0d1b608b",
+            "phoneIndexType": "ქალაქის ტელეფონის ინდექსი",
+            "cityId": "4753277c-ca95-47ee-b21c-5d4d6eff42df",
+            "index": "341",
+            "parentId": null,
+            "isActive": true,
+            "applicationUserGetModel": null
+        }
+    ],
+    "pageIndex": 0,
+    "pageSize": 10,
+    "totalCount": 1,
+    "totalPages": 1,
+    "sortColumn": null,
+    "sortOrder": "DESC"
+}

@@ -1,0 +1,190 @@
+{
+    "data": [
+        {
+            "id": "d08385cc-cb96-4222-b247-01a4c94a59d5",
+            "nativeId": "0",
+            "name": "ტალახა",
+            "areaModel": {
+                "id": "4f95216e-5d8e-47a4-a31a-39c7aae690d6",
+                "nativeId": "0",
+                "name": "მცხეთის რაიონი",
+                "regionModel": {
+                    "id": "337517e9-f7be-4159-b294-0670417158de",
+                    "nativeId": "0",
+                    "name": "იმერეთი",
+                    "applicationUserGetModel": null
+                },
+                "applicationUserGetModel": null
+            },
+            "applicationUserGetModel": null
+        },
+        {
+            "id": "c3a5dfb9-cf3f-4c7c-aa46-05fd37860c65",
+            "nativeId": "0",
+            "name": "მარტვილი",
+            "areaModel": {
+                "id": "8121491d-2708-4225-ab6a-770a9dc640e3",
+                "nativeId": "0",
+                "name": "რუსთავი",
+                "regionModel": {
+                    "id": "42475773-742d-414f-a92a-182d86b9bf53",
+                    "nativeId": "0",
+                    "name": "აჭარა",
+                    "applicationUserGetModel": null
+                },
+                "applicationUserGetModel": null
+            },
+            "applicationUserGetModel": null
+        },
+        {
+            "id": "0eac5475-8274-4b14-857d-0aa6efa6011b",
+            "nativeId": "0",
+            "name": "ტყიბული",
+            "areaModel": {
+                "id": "8121491d-2708-4225-ab6a-770a9dc640e3",
+                "nativeId": "0",
+                "name": "რუსთავი",
+                "regionModel": {
+                    "id": "42475773-742d-414f-a92a-182d86b9bf53",
+                    "nativeId": "0",
+                    "name": "აჭარა",
+                    "applicationUserGetModel": null
+                },
+                "applicationUserGetModel": null
+            },
+            "applicationUserGetModel": null
+        },
+        {
+            "id": "0cc101de-5080-4eb0-aa00-121ac5ecc513",
+            "nativeId": "0",
+            "name": "ცივი",
+            "areaModel": {
+                "id": "8121491d-2708-4225-ab6a-770a9dc640e3",
+                "nativeId": "0",
+                "name": "რუსთავი",
+                "regionModel": {
+                    "id": "42475773-742d-414f-a92a-182d86b9bf53",
+                    "nativeId": "0",
+                    "name": "აჭარა",
+                    "applicationUserGetModel": null
+                },
+                "applicationUserGetModel": null
+            },
+            "applicationUserGetModel": null
+        },
+        {
+            "id": "2ca5161c-7361-4f60-b986-157dd933760e",
+            "nativeId": "0",
+            "name": "ქუთაისი",
+            "areaModel": {
+                "id": "8121491d-2708-4225-ab6a-770a9dc640e3",
+                "nativeId": "0",
+                "name": "რუსთავი",
+                "regionModel": {
+                    "id": "42475773-742d-414f-a92a-182d86b9bf53",
+                    "nativeId": "0",
+                    "name": "აჭარა",
+                    "applicationUserGetModel": null
+                },
+                "applicationUserGetModel": null
+            },
+            "applicationUserGetModel": null
+        },
+        {
+            "id": "9fccd3e6-4f0e-4243-a9d9-19003ac5f79a",
+            "nativeId": "0",
+            "name": "ნინოწმინდა",
+            "areaModel": {
+                "id": "8121491d-2708-4225-ab6a-770a9dc640e3",
+                "nativeId": "0",
+                "name": "რუსთავი",
+                "regionModel": {
+                    "id": "42475773-742d-414f-a92a-182d86b9bf53",
+                    "nativeId": "0",
+                    "name": "აჭარა",
+                    "applicationUserGetModel": null
+                },
+                "applicationUserGetModel": null
+            },
+            "applicationUserGetModel": null
+        },
+        {
+            "id": "b61a6307-0e83-45da-8fbd-1cfcd8585820",
+            "nativeId": "0",
+            "name": "დმანისი",
+            "areaModel": {
+                "id": "8121491d-2708-4225-ab6a-770a9dc640e3",
+                "nativeId": "0",
+                "name": "რუსთავი",
+                "regionModel": {
+                    "id": "42475773-742d-414f-a92a-182d86b9bf53",
+                    "nativeId": "0",
+                    "name": "აჭარა",
+                    "applicationUserGetModel": null
+                },
+                "applicationUserGetModel": null
+            },
+            "applicationUserGetModel": null
+        },
+        {
+            "id": "9276676c-7f80-41c5-ba8a-21e1d8c7f00d",
+            "nativeId": "0",
+            "name": "ხაშური",
+            "areaModel": {
+                "id": "8121491d-2708-4225-ab6a-770a9dc640e3",
+                "nativeId": "0",
+                "name": "რუსთავი",
+                "regionModel": {
+                    "id": "42475773-742d-414f-a92a-182d86b9bf53",
+                    "nativeId": "0",
+                    "name": "აჭარა",
+                    "applicationUserGetModel": null
+                },
+                "applicationUserGetModel": null
+            },
+            "applicationUserGetModel": null
+        },
+        {
+            "id": "c3226b0c-35b3-4ccd-9836-2503845ac11e",
+            "nativeId": "0",
+            "name": "ქედა",
+            "areaModel": {
+                "id": "8121491d-2708-4225-ab6a-770a9dc640e3",
+                "nativeId": "0",
+                "name": "რუსთავი",
+                "regionModel": {
+                    "id": "42475773-742d-414f-a92a-182d86b9bf53",
+                    "nativeId": "0",
+                    "name": "აჭარა",
+                    "applicationUserGetModel": null
+                },
+                "applicationUserGetModel": null
+            },
+            "applicationUserGetModel": null
+        },
+        {
+            "id": "c75de8fe-9929-4f6b-b4fa-254829a92aa6",
+            "nativeId": "0",
+            "name": "ჯვარი",
+            "areaModel": {
+                "id": "8121491d-2708-4225-ab6a-770a9dc640e3",
+                "nativeId": "0",
+                "name": "რუსთავი",
+                "regionModel": {
+                    "id": "42475773-742d-414f-a92a-182d86b9bf53",
+                    "nativeId": "0",
+                    "name": "აჭარა",
+                    "applicationUserGetModel": null
+                },
+                "applicationUserGetModel": null
+            },
+            "applicationUserGetModel": null
+        }
+    ],
+    "pageIndex": 0,
+    "pageSize": 10,
+    "totalCount": 48,
+    "totalPages": 5,
+    "sortColumn": null,
+    "sortOrder": "DESC"
+}

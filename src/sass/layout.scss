@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.dashboard-layout {
+  height: 100vh;
+  overflow: auto;
+}
+
+.root-layout {
+    &--loader {
+        width: 100%;
+        height: 100vh;
+        background-color: var(--main-background-color);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 5555;
+    }
+}
+
+$spiner-items: 12; //Make sure you have enough DOM elements 
+$spinner-item-width: 2px;
+$spinner-dimension: 32px;
+$spinner-item-background-color: #666;
+
+.spinner-container {
+  height: $spinner-dimension;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: $spinner-dimension;
+  
+  .spinner {
+    background: $spinner-item-background-color;
+    height: $spinner-item-width;
+    width: 25%;
+    
+    &.spinner {
+      left: 50%;
+      opacity: .3;
+      position: absolute;
+      top: 50%;
+      transform-origin: -100% 0;      
+    }
+    
+    @for $spinner from 1 through $spiner-items {
+        &.spinner-#{$spinner} {
+          $rotate: calc(360 / $spiner-items) * $spinner;
+          animation: spinner-animation #{calc($spiner-items * 1) / 15}s #{calc($spinner)/15}s infinite;
+          transform: translate(100%, 0) rotate(#{$rotate}deg);
+      }
+    }
+    
+    @at-root {
+      @keyframes spinner-animation {
+        0% {
+          opacity: .3
+        }
+        10% {
+          opacity: 1
+        }
+        100% {
+          opacity: .3;
+        }
+      }
+    }
+    
+  }
+}

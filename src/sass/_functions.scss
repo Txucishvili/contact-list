@@ -1,0 +1,39 @@
+$browser-context: 16;
+
+@function em($pixel, $context: $browser-context) {
+
+	@return calc($pixel / $context)+em;
+}
+
+@mixin FontCairo($size: 14, $weight: 400) {
+	font-family: Cairo, sans-serif;
+	font-size: em($size);
+	line-height: em($size);
+	font-weight: $weight;
+}
+
+@mixin reset-button {
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+
+%theme-small-capsed {
+	font-variant: small-caps;
+	letter-spacing: 1.1px;
+	@include FontCairo(18, 600);
+}
+
+%theme-page-title {
+	letter-spacing: 1.1px;
+	@include FontCairo(30, 600);
+}
+
+
+%flex {
+	display: flex;
+	&--center {
+		justify-content: center;
+		align-items: center;
+	}
+}

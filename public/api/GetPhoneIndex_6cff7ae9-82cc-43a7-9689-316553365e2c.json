@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "id": "b612e82f-1b9d-4195-a513-4094384a0564",
+            "typeId": "23c886bb-7950-47c4-be1e-ce65051fc98d",
+            "phoneIndexType": "მობილური ოპერატორის ინდექსი",
+            "cityId": null,
+            "index": "555",
+            "parentId": null,
+            "isActive": true,
+            "applicationUserGetModel": null
+        },
+        {
+            "id": "a4d8f4b8-769c-41c8-b7d2-73b1441adc9d",
+            "typeId": "23c886bb-7950-47c4-be1e-ce65051fc98d",
+            "phoneIndexType": "მობილური ოპერატორის ინდექსი",
+            "cityId": null,
+            "index": "599",
+            "parentId": null,
+            "isActive": true,
+            "applicationUserGetModel": null
+        }
+    ],
+    "pageIndex": 0,
+    "pageSize": 10,
+    "totalCount": 2,
+    "totalPages": 1,
+    "sortColumn": null,
+    "sortOrder": "DESC"
+}

@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700;800&display=swap');
+@import 'node_modules/bootstrap/scss/bootstrap-grid';
+
+:root {
+  --main-background-color: #181818;
+  --main-text-color: #FFF;
+  --main-font-size: em(16px);
+  --main-font-family: Tahoma, sans-serif;
+  --main-font-Cairo: Cairo;
+  --main-font-line-height: em(16px);
+  --main-theme-color: #{$main-theme-color};
+
+  --button-light-color: #fff;
+  --button-light-color-hover: #{darken(#fff, 12%)};
+  --button-primary-color: #D65A31;
+  --button-primary-color-hover: #{lighten(#D65A31, 4%)};
+  --button-danger-color: #ac3434;
+  --button-danger-color-hover: #{darken(#ac3434, 5%)};
+
+  --theme-dark: #222831;
+  --theme-dark2: #393E46;
+  --theme-color: #D65A31;
+  --theme-ligth: #EEEEEE;
+  --theme-gray: #8c8c8c;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  position: relative;
+  font-weight: normal;
+}
+
+body {
+  min-height: 100vh;
+  color: var(--theme-ligth);
+  background: var(--theme-dark);
+  line-height: var(--main-font-line-height);
+  font-family: var(--main-font-family);
+  font-size: var(--main-font-size);
+  font-weight: 600;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+$dividers: 4,
+6,
+8,
+10,
+12,
+14,
+16,
+18,
+20,
+22,
+24;
+
+@each $size in $dividers {
+  .divider-#{$size} {
+    height: 0px;
+    margin-bottom: $size + px;
+  }
+}
+
+
+.right-area {
+  margin-left: auto;
+}
+
+.page-title {
+  h1 {
+    @extend %theme-page-title;
+  }
+}

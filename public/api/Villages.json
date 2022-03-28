@@ -1,0 +1,61 @@
+{
+    "data": [
+        {
+            "id": "7f73e48e-b587-48e5-94b9-32adbce6207b",
+            "name": "ქესალო",
+            "areaModel": {
+                "id": "2950978a-9a5e-4036-8322-2330f98b7279",
+                "nativeId": "0",
+                "name": "test village",
+                "regionModel": {
+                    "id": "42ee8fe3-316e-4d67-888d-ebffea594974",
+                    "nativeId": "0",
+                    "name": "test village region",
+                    "applicationUserGetModel": null
+                },
+                "applicationUserGetModel": null
+            },
+            "applicationUserGetModel": null
+        },
+        {
+            "id": "0ff5dcf0-fa6e-4c9e-8b7c-3d4a26fac923",
+            "name": "ნორიო",
+            "areaModel": {
+                "id": "7dc294eb-e294-4e8b-9267-fbf36168fcf4",
+                "nativeId": "0",
+                "name": "გარდაბნის რაიონი",
+                "regionModel": {
+                    "id": "45d11110-7f3b-4ed6-a81d-d54c32f47804",
+                    "nativeId": "0",
+                    "name": "ქვემო ქართი",
+                    "applicationUserGetModel": null
+                },
+                "applicationUserGetModel": null
+            },
+            "applicationUserGetModel": null
+        },
+        {
+            "id": "d1824d99-2107-4a8a-aed7-6eb4d495db8e",
+            "name": "გამარჯვება",
+            "areaModel": {
+                "id": "7dc294eb-e294-4e8b-9267-fbf36168fcf4",
+                "nativeId": "0",
+                "name": "გარდაბნის რაიონი",
+                "regionModel": {
+                    "id": "45d11110-7f3b-4ed6-a81d-d54c32f47804",
+                    "nativeId": "0",
+                    "name": "ქვემო ქართი",
+                    "applicationUserGetModel": null
+                },
+                "applicationUserGetModel": null
+            },
+            "applicationUserGetModel": null
+        }
+    ],
+    "pageIndex": 0,
+    "pageSize": 10,
+    "totalCount": 3,
+    "totalPages": 1,
+    "sortColumn": null,
+    "sortOrder": "DESC"
+}

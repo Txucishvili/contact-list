@@ -1,0 +1,33 @@
+.auth-layout {
+
+    &--wrap {
+        width: 100%;
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .auth-form {
+        &--wrap {}
+
+        &--box {
+            padding: 30px 20px 30px 20px;
+            min-width: 450px;
+            min-height: 150px;
+            background-color: var(--theme-dark2);
+            // background-color: rgba(128, 128, 128, 0.178);
+            box-shadow: 3px 4px 0px 1px #000;
+        }
+
+        &--title {
+            margin-bottom: 35px;
+            .heading {
+                font-size: 34px;
+                line-height: 34px;
+                font-family: var(--main-font-Cairo);
+                font-weight: bold;
+            }
+        }
+    }
+}

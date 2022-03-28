@@ -1,0 +1,149 @@
+{
+    "data": [{
+        "id": "cd94b65c-4c10-42a3-a241-011a592af0c8",
+        "firstname": "FirstName",
+        "lastname": "LastName",
+        "privateNumber": "11223344550",
+        "birthDate": "1988-12-20T00:00:00",
+        "emailAddress": "oto@service.com",
+        "genderId": "a921119c-8154-4bf2-9c44-4525f5bd4982",
+        "gender": "მამრობითი",
+        "legalId": null,
+        "isActive": true,
+        "legalGetModel": null,
+        "addressGetModels": [],
+        "phoneModels": [
+            {
+                "id": "bcb47c31-72f8-4161-4bbc-08d967c2db33",
+                "personId": "cd94b65c-4c10-42a3-a241-011a592af0c8",
+                "phoneIndexId": "b612e82f-1b9d-4195-a513-4094384a0564",
+                "phoneNumber": "000000",
+                "typeId": "6cff7ae9-82cc-43a7-9689-316553365e2c",
+                "phoneType": "მობილური ტელეფონი",
+                "phoneIndexGetModel": {
+                    "id": "b612e82f-1b9d-4195-a513-4094384a0564",
+                    "typeId": "23c886bb-7950-47c4-be1e-ce65051fc98d",
+                    "phoneIndexType": "მობილური ოპერატორის ინდექსი",
+                    "cityId": null,
+                    "index": "555",
+                    "parentId": null,
+                    "isActive": true,
+                    "applicationUserGetModel": null
+                },
+                "personGetModelForPhone": {
+                    "id": "cd94b65c-4c10-42a3-a241-011a592af0c8",
+                    "firstname": "ოთო",
+                    "lastname": "სერვის ცენტრი 2",
+                    "privateNumber": "99999999999",
+                    "birthDate": "1988-12-20T00:00:00",
+                    "emailAddress": "oto@service.com",
+                    "genderId": "a921119c-8154-4bf2-9c44-4525f5bd4982",
+                    "gender": "მამრობითი",
+                    "legalId": null,
+                    "isActive": true,
+                    "legalGetModel": null,
+                    "addressGetModels": null,
+                    "applicationUserGetModel": {
+                        "userName": "Zura",
+                        "email": "Zura@mail.com"
+                    }
+                },
+                "applicationUserGetModel": {
+                    "userName": "Zura",
+                    "email": "Zura@mail.com"
+                }
+            },
+            
+            {
+                "id": "bcb47c31-72f8-4161-4bbc-08d967c2db33",
+                "personId": "cd94b65c-4c10-42a3-a241-011a592af0c8",
+                "phoneIndexId": "b612e82f-1b9d-4195-a513-4094384a0564",
+                "phoneNumber": "121212",
+                "typeId": "6cff7ae9-82cc-43a7-9689-316553365e2c",
+                "phoneType": "მობილური ტელეფონი",
+                "phoneIndexGetModel": {
+                    "id": "b612e82f-1b9d-4195-a513-4094384a0564",
+                    "typeId": "23c886bb-7950-47c4-be1e-ce65051fc98d",
+                    "phoneIndexType": "მობილური ოპერატორის ინდექსი",
+                    "cityId": null,
+                    "index": "555",
+                    "parentId": null,
+                    "isActive": true,
+                    "applicationUserGetModel": null
+                },
+                "personGetModelForPhone": {
+                    "id": "cd94b65c-4c10-42a3-a241-011a592af0c8",
+                    "firstname": "ოთო",
+                    "lastname": "სერვის ცენტრი 2",
+                    "privateNumber": "99999999999",
+                    "birthDate": "1988-12-20T00:00:00",
+                    "emailAddress": "oto@service.com",
+                    "genderId": "a921119c-8154-4bf2-9c44-4525f5bd4982",
+                    "gender": "მამრობითი",
+                    "legalId": null,
+                    "isActive": true,
+                    "legalGetModel": null,
+                    "addressGetModels": null,
+                    "applicationUserGetModel": {
+                        "userName": "Zura",
+                        "email": "Zura@mail.com"
+                    }
+                },
+                "applicationUserGetModel": {
+                    "userName": "Zura",
+                    "email": "Zura@mail.com"
+                }
+            },
+            {
+                "id": "bcb47c31-72f8-4161-4bbc-08d967c2db33",
+                "personId": "cd94b65c-4c10-42a3-a241-011a592af0c8",
+                "phoneIndexId": "4e783f6c-068d-4bcb-8cb6-7eb96917a10c",
+                "phoneNumber": "111111",
+                "typeId": "e45f7317-78fa-4cee-bbda-5cddd5b1e5a9",
+                "phoneType": "ქალაქის ტელეფონი",
+                "phoneIndexGetModel": {
+                    "id": "b612e82f-1b9d-4195-a513-4094384a0564",
+                    "typeId": "23c886bb-7950-47c4-be1e-ce65051fc98d",
+                    "phoneIndexType": "მობილური ოპერატორის ინდექსი",
+                    "cityId": null,
+                    "index": "341",
+                    "parentId": null,
+                    "isActive": true,
+                    "applicationUserGetModel": null
+                },
+                "personGetModelForPhone": {
+                    "id": "cd94b65c-4c10-42a3-a241-011a592af0c8",
+                    "firstname": "ოთო",
+                    "lastname": "სერვის ცენტრი 2",
+                    "privateNumber": "99999999999",
+                    "birthDate": "1988-12-20T00:00:00",
+                    "emailAddress": "oto@service.com",
+                    "genderId": "a921119c-8154-4bf2-9c44-4525f5bd4982",
+                    "gender": "მამრობითი",
+                    "legalId": null,
+                    "isActive": true,
+                    "legalGetModel": null,
+                    "addressGetModels": null,
+                    "applicationUserGetModel": {
+                        "userName": "Zura",
+                        "email": "Zura@mail.com"
+                    }
+                },
+                "applicationUserGetModel": {
+                    "userName": "Zura",
+                    "email": "Zura@mail.com"
+                }
+            }
+        ],
+        "applicationUserGetModel": {
+            "userName": "Zura",
+            "email": "Zura@mail.com"
+        }
+    }],
+    "pageIndex": 0,
+    "pageSize": 10,
+    "totalCount": 183,
+    "totalPages": 19,
+    "sortColumn": null,
+    "sortOrder": "DESC"
+}
